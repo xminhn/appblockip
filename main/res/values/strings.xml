@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlockWeb</string>
+    <string-array name="days_of_week">
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
+    </string-array>
+    <string name="choose_start">Chọn thứ bắt đầu</string>
+    <string name="choose_end">Chọn thứ kết thúc</string>
+
+</resources>
